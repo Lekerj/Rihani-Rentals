@@ -1,0 +1,28 @@
+# Compiled
+*.class
+/out/
+/bin/
+/build/
+/target/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Archives & packages
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Misc
+hs_err_pid*
