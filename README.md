@@ -136,9 +136,5 @@ This project was intentionally designed as a hands-on exercise to practice core 
 
 The code favors clarity and explicitness (manual array resizing, direct loops) to highlight these concepts without obscuring them behind advanced collections or frameworks. Future refactors (examples: introducing generics, collections, persistence) can build on this solid conceptual base.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ---
 Developed by Ahmed Gara Ali
